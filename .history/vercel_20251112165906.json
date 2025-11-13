@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+    {
+        "source": "/:match*",
+        "destination": "https://your-framer-site.framer.website/:match*"
+        },
+      {
+        "source": "/blog/:match*",
+        "destination": "https://blog.theweb3family.com/:match*"
+      }
+    ]
+  }

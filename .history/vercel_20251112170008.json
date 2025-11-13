@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+    {
+        "source": "/:match*",
+        "destination": "https://alive-terms-960596.framer.app/:match*"
+        },
+      {
+        "source": "/blog/:match*",
+        "destination": "https://blog.theweb3family.com/:match*"
+      }
+    ]
+  }

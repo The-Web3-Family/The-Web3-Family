@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/framer/:match*",
+        "destination": "https://my-framer-site.framer.website/:match*"
+      }
+    ]
+  }
